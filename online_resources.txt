@@ -1,0 +1,2 @@
+Icons: https://uxwing.com
+Cloud Storage: https://console.firebase.google.com/
